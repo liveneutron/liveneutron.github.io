@@ -1,0 +1,15 @@
+body {
+margin:11;
+padding:0;
+height:95vh;
+display:flex;
+justify-content:center;
+align-items:center;
+border: 2px dashed black;
+box-sizing: border-box;
+}
+
+.main {
+font-size:50px;
+text-align:center;
+}
