@@ -70,7 +70,7 @@ font-size: 3em;
 font-size: 1.5em;
 }
 
-@media only screen and (550px < width < 920px) {
+@media (max-width: 920px) {
 .main {
 margin-top: .5em;
 margin-bottom: .3em;
@@ -102,7 +102,7 @@ font-size: 1.2em;
 }
 }
 
-@media only screen and (width < 550px) {
+@media (width < 550px) {
 .main {
 margin-top: .5em;
 margin-bottom: .3em;
