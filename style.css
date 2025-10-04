@@ -87,6 +87,12 @@ background-size: contain;
 background-position: center;
 background-repeat: no-repeat;
 }
+.animelist {
+background-image: url(images/icons/animelist.png);
+background-size: contain;
+background-position: center;
+background-repeat: no-repeat;
+}
 .github {
 background-image: url(images/icons/github.png);
 background-size: contain;
